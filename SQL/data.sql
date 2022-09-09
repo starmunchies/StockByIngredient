@@ -76,9 +76,70 @@ INSERT INTO restaurant(r_Id,r_Name,r_Date) VALUES ('0001','Eddie Rockets',GETDAT
 
     
     
+--Populating Ingredients 
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0001','Boneless Wings',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0002','Nachos',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0003','Onion',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0004','Salsa',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0005','Guacamole',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0006','Sour Cream',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0007','Jalapenos',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0008','5oz Patty',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0009','3oz Patty',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0010','Smoked Cheese',100,1,GETDATE()); 
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0011','Relish',100,1,GETDATE());  
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0012','Secret Sauce',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0013','Chicken Fillet',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0014','American Cheese',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0015','Dill Pickle',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0016','Sesame Bun',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0017','Beyond Meat',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0018','Swiss Cheese',100,1,GETDATE()); 
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0019','Garlic Butter Mushrooms',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0020','Truffle oil',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0021','Cheddar Cheese',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0022','Lettuce',100,1,GETDATE());     
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0023','Tomato',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0024','Blue Cheese',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0025','Beetroot Patty',100,1,GETDATE()); 
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0026','Chick-Free Fillet',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0027','Caesar Sauce',100,1,GETDATE());    
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0028','croutons',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0029','Parmesan Cheese',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0030','White Bread',100,1,GETDATE());                                   
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0031','Brown Bread',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0032','Fillet Tenders',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0033','Wings',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0034','Celery',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0035','Beef Hotdog',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0036','Bacon Bits',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0037','Beef Chilli',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0038','Grated Cheese',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0039','Paprika Seasoning',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0040','Cheese Sauce',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0041','Garlic Sauce',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0042','Blue Cheese Sauce',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0043','Mayo',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0044','Gravy Sauce',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0045','BBQ Sauce',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0046','Hot Sauce',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0047','Cajun Sauce',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0048','Peppers',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0049','Curry Powder',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0050','Vanilla Ice-Cream',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0051','Chocolate Ice-Cream',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0052','Strawberry Ice-Cream',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0053','Oreos',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0054','Nutella',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0055','Ferrero Roche',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0056','Malt',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0057','Kinder Bueno',100,1,GETDATE());
+
+
     
-    
-    
+
+
+
     
     
     
