@@ -5,6 +5,7 @@
 -- the same kitchen
 DROP TABLE allergy;
 DROP TABLE DishPrep;
+DROP TABLE choiceprep;
 DROP TABLE ingredients;
 DROP TABLE choices
 DROP TABLE menu;
@@ -45,10 +46,10 @@ CREATE TABLE ingredients(
 -- ties the ingredient to the allergy that people may have to it
 CREATE TABLE allergy(
     a_Name char(30) NOT NULL,
-    ing_ID char(4) NOT NULL,
+    m_Id char(4) NOT NULL,
 
-    FOREIGN KEY(ing_ID) references ingredients(ing_Id),
-    CONSTRAINT allergy_PK PRIMARY KEY (a_Name)
+    FOREIGN KEY(m_Id) references menu(m_Id),
+    CONSTRAINT allergy_PK PRIMARY KEY (a_Name,m_Id)
 );
 
 CREATE TABLE DishPrep(
@@ -68,5 +69,15 @@ CREATE TABLE choices(
     foreign key(m_Id) REFERENCES menu(m_Id),
     CONSTRAINT choices_PK PRIMARY KEY (c_Name)
 );
+
+CREATE TABLE choicePrep(
+     c_Name char(30) NOT NULL,
+     ing_Id char(4) NOT NULL,
+
+    FOREIGN KEY(c_Name) references choices(c_Name),
+    FOREIGN KEY(ing_Id) references ingredients(ing_Id),
+    CONSTRAINT choicePrep_PK PRIMARY KEY (c_Name,ing_Id)
+);
+
 
 
