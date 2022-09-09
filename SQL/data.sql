@@ -134,8 +134,8 @@ INSERT INTO restaurant(r_Id,r_Name,r_Date) VALUES ('0001','Eddie Rockets',GETDAT
     INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0055','Ferrero Roche',100,1,GETDATE());
     INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0056','Malt',100,1,GETDATE());
     INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0057','Kinder Bueno',100,1,GETDATE());
-
-
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0058','Bacon',100,1,GETDATE());
+    INSERT INTO ingredients(ing_Id,ing_Name,ing_Unit,ing_Availability,ing_Date) Values ('0059','Fries',100,1,GETDATE());
     
 
 

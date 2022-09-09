@@ -53,12 +53,13 @@ CREATE TABLE allergy(
 );
 
 CREATE TABLE DishPrep(
+     dish_Id INT IDENTITY(1,1),
      m_Id char(4) NOT NULL,
      ing_Id char(4) NOT NULL,
 
     FOREIGN KEY(m_Id) references menu(m_Id),
     FOREIGN KEY(ing_Id) references ingredients(ing_Id),
-    CONSTRAINT DishPrep_PK PRIMARY KEY (m_Id,ing_Id)
+    CONSTRAINT DishPrep_PK PRIMARY KEY (dish_Id)
 );
 
 CREATE TABLE choices(
