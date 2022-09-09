@@ -58,4 +58,13 @@ CREATE TABLE DishPrep(
     CONSTRAINT DishPrep_PK PRIMARY KEY (m_Id,ing_Id)
 );
 
+CREATE TABLE choices(
+
+    c_Name CHAR(30) NOT NULL,
+    m_Id char(4) NOT NULL,
+
+    foreign key(m_Id) REFERENCES menu(m_Id),
+    CONSTRAINT choices_PK PRIMARY KEY (c_Name)
+);
+
 
