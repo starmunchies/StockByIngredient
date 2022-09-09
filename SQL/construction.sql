@@ -6,6 +6,7 @@
 DROP TABLE allergy;
 DROP TABLE DishPrep;
 DROP TABLE ingredients;
+DROP TABLE choices
 DROP TABLE menu;
 DROP TABLE restaurant;
 
@@ -22,7 +23,8 @@ CREATE TABLE restaurant(
 CREATE TABLE menu(
     m_Id char(4) ,
     m_DishName CHAR(30) NOT NULL,
-    m_Price MONEY NOT NULL,
+    m_Category CHAR(30) NOT NULL,
+    m_Price MONEY,
     r_Id char(4) NOT NULL,
     -- restraint needs an restaurant id 
     FOREIGN KEY(R_Id) references restaurant(r_Id),
