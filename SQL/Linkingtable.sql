@@ -146,3 +146,78 @@ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0024','0040');
 INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0024','0036');
 
 INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0025','0059'); 
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0025','0041');
+
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0026','0059'); 
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0026','0040');
+
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0027','0059');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0027','0041');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0027','0038');
+
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0028','0059');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0028','0003');
+
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0029','0059');
+
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0031','0040');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0032','0041');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0033','0042');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0034','0006');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0035','0043');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0036','0044');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0037','0045');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0038','0046');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0039','0047');
+ 
+
+ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0040','0059');
+ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0040','0032');
+ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0040','0048');
+ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0040','0049');
+ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0040','0041');
+ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0040','0045');
+
+ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0041','0059');
+ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0041','0001');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0041','0041');
+
+ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0042','0059');
+ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0042','0032');
+ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0042','0041');
+
+ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0043','0059');
+ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0043','0048');
+ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0043','0049');
+ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0043','0041');
+ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0043','0045');
+ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0043','0026');
+
+ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0044','0060');
+ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0044','0050');
+
+ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0045','0060');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0045','0051');
+
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0046','0060');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0046','0052');
+
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0047','0060');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0047','0050');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0047','0053');
+
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0048','0060');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0048','0050');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0048','0061');
+
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0049','0060');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0049','0051');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0049','0054');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0049','0055');
+
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0050','0060');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0050','0050');
+INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0050','0057');
+
+
+
