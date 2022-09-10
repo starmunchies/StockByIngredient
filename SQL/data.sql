@@ -141,8 +141,10 @@ INSERT INTO restaurant(r_Id,r_Name,r_Date) VALUES ('0001','Eddie Rockets',GETDAT
     
 
 
+--populating choices by menu item
 
-    
+
+-- populating allergies by menu items
     
     
     
