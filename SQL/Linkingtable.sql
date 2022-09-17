@@ -279,210 +279,210 @@ INSERT INTO choicePrep(c_Id,ing_Id) VALUES(22,'0056');
 
 -- Allergy link to menu
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0001','Milk');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0001','Celery');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0001','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0001','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0001','Celery');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0001','Cereals');
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0002','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0002','Milk');
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0003','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0003','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0003','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0003','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0003','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0003','Eggs');
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0004','Milk');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0004','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0004','Soya');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0004','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0004','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0004','Soya');
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0005','Milk');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0005','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0005','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0005','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0005','Soya');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0005','Sesame');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0005','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0005','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0005','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0005','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0005','Soya');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0005','Sesame');
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0006','Milk');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0006','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0006','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0006','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0006','Soya');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0006','Sesame');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0006','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0006','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0006','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0006','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0006','Soya');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0006','Sesame');
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0007','Milk');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0007','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0007','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0007','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0007','Soya');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0007','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0007','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0007','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0007','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0007','Soya');
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0008','Milk');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0008','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0008','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0008','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0008','Soya');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0008','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0008','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0008','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0008','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0008','Soya');
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0009','Milk');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0009','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0009','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0009','Soya');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0009','Sesame');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0009','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0009','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0009','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0009','Soya');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0009','Sesame');
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0010','Milk');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0010','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0010','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0010','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0010','Soya');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0010','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0010','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0010','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0010','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0010','Soya');
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0011','Milk');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0011','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0011','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0011','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0011','Soya');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0011','Sesame');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0011','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0011','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0011','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0011','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0011','Soya');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0011','Sesame');
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0012','Milk');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0012','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0012','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0012','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0012','Soya');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0012','Sesame');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0012','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0012','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0012','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0012','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0012','Soya');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0012','Sesame');
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0013','Milk');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0013','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0013','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0013','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0013','Soya');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0013','Sesame');
-
-
-INSERT INTO allergies(m_Id,a_Name) VALUES('0014','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0014','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0014','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0014','Soya');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0014','Sesame');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0013','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0013','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0013','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0013','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0013','Soya');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0013','Sesame');
 
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0015','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0015','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0015','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0015','Soya');
-
-INSERT INTO allergies(m_Id,a_Name) VALUES('0016','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0016','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0016','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0016','Soya');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0016','Sesame');
-
-INSERT INTO allergies(m_Id,a_Name) VALUES('0017','Fish');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0017','Celery');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0017','Milk');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0017','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0017','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0017','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0017','Soya');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0014','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0014','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0014','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0014','Soya');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0014','Sesame');
 
 
+INSERT INTO allergy(m_Id,a_Name) VALUES('0015','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0015','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0015','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0015','Soya');
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0018','Milk');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0018','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0018','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0018','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0018','Soya');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0016','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0016','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0016','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0016','Soya');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0016','Sesame');
+
+INSERT INTO allergy(m_Id,a_Name) VALUES('0017','Fish');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0017','Celery');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0017','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0017','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0017','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0017','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0017','Soya');
 
 
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0019','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0019','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0019','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0019','Soya');
-
-INSERT INTO allergies(m_Id,a_Name) VALUES('0020','Milk');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0020','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0020','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0020','Soya');
-
-INSERT INTO allergies(m_Id,a_Name) VALUES('0021','Milk');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0021','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0021','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0021','Soya');
-
-INSERT INTO allergies(m_Id,a_Name) VALUES('0040','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0040','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0040','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0040','Soya');
-
-INSERT INTO allergies(m_Id,a_Name) VALUES('0042','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0042','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0042','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0042','Soya');
-
-INSERT INTO allergies(m_Id,a_Name) VALUES('0041','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0041','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0041','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0041','Soya');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0041','Fish');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0041','Milk');
-
-INSERT INTO allergies(m_Id,a_Name) VALUES('0043','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0043','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0043','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0043','Soya');
-
-INSERT INTO allergies(m_Id,a_Name) VALUES('0022','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0022','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0022','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0022','Milk');
-
-INSERT INTO allergies(m_Id,a_Name) VALUES('0024','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0024','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0024','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0024','Milk');
-
-INSERT INTO allergies(m_Id,a_Name) VALUES('0028','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0028','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0028','Eggs');
-
-INSERT INTO allergies(m_Id,a_Name) VALUES('0023','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0023','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0023','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0023','Milk');
-
-INSERT INTO allergies(m_Id,a_Name) VALUES('0027','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0027','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0027','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0027','Milk');
-
-INSERT INTO allergies(m_Id,a_Name) VALUES('0025','Mustard');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0025','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0025','Eggs');
-
-INSERT INTO allergies(m_Id,a_Name) VALUES('0026','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0018','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0018','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0018','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0018','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0018','Soya');
 
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0044','Milk');
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0045','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0019','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0019','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0019','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0019','Soya');
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0046','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0020','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0020','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0020','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0020','Soya');
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0047','Milk');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0047','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0047','Soya');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0021','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0021','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0021','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0021','Soya');
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0048','Milk');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0048','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0048','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0048','Soya');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0048','Sulphur Dioxide');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0040','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0040','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0040','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0040','Soya');
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0049','Milk');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0049','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0049','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0049','Soya');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0049','Tree Nuts');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0042','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0042','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0042','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0042','Soya');
 
-INSERT INTO allergies(m_Id,a_Name) VALUES('0050','Milk');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0050','Cereals');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0050','Eggs');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0050','Soya');
-INSERT INTO allergies(m_Id,a_Name) VALUES('0050','Tree Nuts');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0041','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0041','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0041','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0041','Soya');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0041','Fish');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0041','Milk');
+
+INSERT INTO allergy(m_Id,a_Name) VALUES('0043','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0043','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0043','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0043','Soya');
+
+INSERT INTO allergy(m_Id,a_Name) VALUES('0022','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0022','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0022','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0022','Milk');
+
+INSERT INTO allergy(m_Id,a_Name) VALUES('0024','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0024','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0024','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0024','Milk');
+
+INSERT INTO allergy(m_Id,a_Name) VALUES('0028','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0028','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0028','Eggs');
+
+INSERT INTO allergy(m_Id,a_Name) VALUES('0023','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0023','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0023','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0023','Milk');
+
+INSERT INTO allergy(m_Id,a_Name) VALUES('0027','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0027','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0027','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0027','Milk');
+
+INSERT INTO allergy(m_Id,a_Name) VALUES('0025','Mustard');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0025','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0025','Eggs');
+
+INSERT INTO allergy(m_Id,a_Name) VALUES('0026','Milk');
+
+
+INSERT INTO allergy(m_Id,a_Name) VALUES('0044','Milk');
+
+INSERT INTO allergy(m_Id,a_Name) VALUES('0045','Milk');
+
+INSERT INTO allergy(m_Id,a_Name) VALUES('0046','Milk');
+
+INSERT INTO allergy(m_Id,a_Name) VALUES('0047','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0047','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0047','Soya');
+
+INSERT INTO allergy(m_Id,a_Name) VALUES('0048','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0048','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0048','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0048','Soya');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0048','Sulphur Dioxide');
+
+INSERT INTO allergy(m_Id,a_Name) VALUES('0049','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0049','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0049','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0049','Soya');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0049','Tree Nuts');
+
+INSERT INTO allergy(m_Id,a_Name) VALUES('0050','Milk');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0050','Cereals');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0050','Eggs');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0050','Soya');
+INSERT INTO allergy(m_Id,a_Name) VALUES('0050','Tree Nuts');
 
 
