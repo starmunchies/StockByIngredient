@@ -36,6 +36,7 @@ CREATE TABLE menu(
 CREATE TABLE ingredients(
     ing_Id char(4) ,
     ing_Name char(30) NOT NULL,
+    ing_FoodGroup char(30) NOT NULL,
     ing_Unit INT,
     ing_Date DATETIME,
     ing_Availability INT NOT NULL,
