@@ -64,21 +64,21 @@ CREATE TABLE DishPrep(
 );
 
 CREATE TABLE choices(
-
+    c_Id INT IDENTITY(1,1),
     c_Name CHAR(30) NOT NULL,
     m_Id char(4) NOT NULL,
 
     foreign key(m_Id) REFERENCES menu(m_Id),
-    CONSTRAINT choices_PK PRIMARY KEY (c_Name)
+    CONSTRAINT choices_PK PRIMARY KEY (c_Id)
 );
 
 CREATE TABLE choicePrep(
-     c_Name char(30) NOT NULL,
+     c_Id char(30) NOT NULL,
      ing_Id char(4) NOT NULL,
 
-    FOREIGN KEY(c_Name) references choices(c_Name),
+    FOREIGN KEY(c_Id) references choices(c_Id),
     FOREIGN KEY(ing_Id) references ingredients(ing_Id),
-    CONSTRAINT choicePrep_PK PRIMARY KEY (c_Name,ing_Id)
+    CONSTRAINT choicePrep_PK PRIMARY KEY (c_Id,ing_Id)
 );
 
 

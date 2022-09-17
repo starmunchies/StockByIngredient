@@ -221,3 +221,33 @@ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0050','0057');
 
 
 --choice prep
+
+INSERT INTO choices(c_Name,m_Id) VALUES('BBQ Sauce','0001');
+INSERT INTO choices(c_Name,m_Id) VALUES('Hot Sauce','0001');
+INSERT INTO choices(c_Name,m_Id) VALUES('Cajun Sauce','0001');
+
+
+INSERT INTO choices(c_Name,m_Id) VALUES('Chicken','0004');
+INSERT INTO choices(c_Name,m_Id) VALUES('Beef','0004');
+INSERT INTO choices(c_Name,m_Id) VALUES('Chick-Free Fillet','0004');
+
+INSERT INTO choices(c_Name,m_Id) VALUES('Truffle Oil','0008');
+
+INSERT INTO choices(c_Name,m_Id) VALUES('Chicken','0017');
+INSERT INTO choices(c_Name,m_Id) VALUES('Chick-Free fillet','0017');
+
+INSERT INTO choices(c_Name,m_Id) VALUES('BBQ Sauce','0051');
+INSERT INTO choices(c_Name,m_Id) VALUES('Hot Sauce','0051');
+INSERT INTO choices(c_Name,m_Id) VALUES('Cajun Sauce','0051');
+
+INSERT INTO choices(c_Name,m_Id) VALUES('BBQ Sauce','0041');
+INSERT INTO choices(c_Name,m_Id) VALUES('Hot Sauce','0041');
+INSERT INTO choices(c_Name,m_Id) VALUES('Cajun Sauce','0041');
+
+INSERT INTO choices(c_Name,m_Id) VALUES('Malt','0044');
+INSERT INTO choices(c_Name,m_Id) VALUES('Malt','0045');
+INSERT INTO choices(c_Name,m_Id) VALUES('Malt','0046');
+INSERT INTO choices(c_Name,m_Id) VALUES('Malt','0047');
+INSERT INTO choices(c_Name,m_Id) VALUES('Malt','0048');
+INSERT INTO choices(c_Name,m_Id) VALUES('Malt','0049');
+INSERT INTO choices(c_Name,m_Id) VALUES('Malt','0050');
