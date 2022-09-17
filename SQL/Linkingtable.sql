@@ -220,7 +220,7 @@ INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0050','0050');
 INSERT INTO DishPrep(m_Id,ing_Id) VALUES ('0050','0057');
 
 
---choice prep
+--choices
 
 INSERT INTO choices(c_Name,m_Id) VALUES('BBQ Sauce','0001');
 INSERT INTO choices(c_Name,m_Id) VALUES('Hot Sauce','0001');
@@ -251,3 +251,30 @@ INSERT INTO choices(c_Name,m_Id) VALUES('Malt','0047');
 INSERT INTO choices(c_Name,m_Id) VALUES('Malt','0048');
 INSERT INTO choices(c_Name,m_Id) VALUES('Malt','0049');
 INSERT INTO choices(c_Name,m_Id) VALUES('Malt','0050');
+
+--choice prep and link 
+
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(1,'0045');
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(2,'0046');
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(3,'0047');
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(4,'0013');
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(5,'0037');
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(6,'0026');
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(7,'0020');
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(8,'0013');
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(9,'0026');
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(10,'0045');
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(11,'0046');
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(12,'0047');
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(13,'0045');
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(14,'0046');
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(15,'0047');
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(16,'0056');
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(17,'0056');
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(18,'0056');
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(19,'0056');
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(20,'0056');
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(21,'0056');
+INSERT INTO choicePrep(c_Id,ing_Id) VALUES(22,'0056');
+
+-- Allergy link to menu

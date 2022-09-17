@@ -73,7 +73,7 @@ CREATE TABLE choices(
 );
 
 CREATE TABLE choicePrep(
-     c_Id char(30) NOT NULL,
+     c_Id INT NOT NULL,
      ing_Id char(4) NOT NULL,
 
     FOREIGN KEY(c_Id) references choices(c_Id),
