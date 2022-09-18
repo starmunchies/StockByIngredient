@@ -12,7 +12,7 @@ To get around this issue we should just have to list an ingredient as unavailabl
 
 # Getting Started
 
-To start off I'm using an SQL database with data taken froma well known restaurant and linked each menu item based on it's ingredients as well as the choices possible for each menu item.
+To start off I'm using an SQL database with data taken from a well known restaurant and linked each menu item based on it's ingredients as well as the choices possible for each menu item.
 
 on top of this ive added a table that allows for Allergen information to be linked directly to each menu item to make it easier for the end-user to conclude what is safe for them to order and consume.
 
