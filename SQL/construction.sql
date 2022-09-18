@@ -1,6 +1,3 @@
-
---INSERT INTO Customer(c_Name,c_PhoneNo,c_Date,c_Id) VALUES('Matthew','0861895565', GETDATE(),'0001');
-
 -- creates the restaurant table that allows for different restaurants that cohabit
 -- the same kitchen
 DROP TABLE allergy;
